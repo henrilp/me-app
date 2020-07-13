@@ -6,13 +6,14 @@
       <vue-grid-row>
         <vue-grid-item class="vueGridItem">
           <img src="logo.png" alt="vuesion" />
-          <vue-headline level="1">vuesion</vue-headline>
+          <vue-headline level="1">Henri Le Page</vue-headline>
           <div :class="$style.subTitle">
-            {{
+            <!-- {{
               $t(
                 'App.core.description' /* The most complete boilerplate for production-ready PWAs. With focus on performance, development speed, and best practices */,
               )
-            }}
+            }} -->
+            LE plus beau des rigolos
           </div>
 
           <br />
